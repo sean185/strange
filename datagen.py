@@ -1,3 +1,5 @@
+# Events v1 - flat dict of events
+
 events = [
     {
         "event_type": "start"
@@ -82,5 +84,4 @@ events = [
         "event_type": "end"
     }
 ]
-
 
